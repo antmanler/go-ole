@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	ole "github.com/go-ole/go-ole"
+	ole "restis.dev/go-ole"
 )
 
 type stdDispatch struct {
